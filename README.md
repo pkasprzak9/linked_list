@@ -1,8 +1,4 @@
-Certainly! Here's a README file you can use for your GitHub repository:
-
----
-
-# Simple Linked List Implementation
+# Linked List Implementation
 
 This is a simple implementation of a linked list data structure in Ruby. It includes two classes: `LinkedList` and `Node`. The `LinkedList` class represents a linked list and provides various methods to manipulate and traverse the list. The `Node` class represents individual nodes in the linked list.
 
